@@ -8,7 +8,7 @@
  
  Depo eklentisi kurulumu için ilk olarak Eklenti Mağazası'na gitmelisiniz. Sol alt köşede bulunan Eklenti Mağazası butonuna tıklayarak mağazaya gidebilirsiniz.Mağazada bulunan eklentilerden Depo eklentisini bularak Satın Al diyoruz (Depo eklentisi ücretsiz bir eklentidir :)).
  
-![1 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/1.1.JPG)
+![1 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/1.1.JPG?raw=true)
 
 
 Eklenti satın alma işlemi tamamlandıktan sonra Depo eklentisini kuracağımız sunucumuzu sol köşede Suncular başlığı altında bulup tıkladıktan sonra Sunucu Detayları'na tıklıyoruz.
