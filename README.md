@@ -6,12 +6,12 @@
 
  >  Liman MYS kurulumu için -> https://rehber.liman.dev/liman-kurulum/ sayfasına göz atabilirsiniz.
  
- Depo eklentisi kurulumu için ilk olarak Eklenti Mağazası'na gitmelisiniz. Sol alt köşede bulunan Eklenti Mağazası butonuna tıklayarak mağazaya gidebilirsiniz.Mağazada bulunan eklentilerden Depo eklentisini bularak Satın Al diyoruz (Depo eklentisi ücretsiz bir eklentidir :)).
+ Depo eklentisi kurulumu için ilk olarak Eklenti Mağazası'na gitmelisiniz. Sol alt köşede bulunan Eklenti Mağazası butonuna tıklayarak mağazaya gidebilirsiniz.Mağazada bulunan eklentilerden Depo eklentisini bularak Yükle diyoruz (Depo eklentisi ücretsiz bir eklentidir :)).
  
 ![1 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/1.1.JPG)
 
 
-Eklenti satın alma işlemi tamamlandıktan sonra Depo eklentisini kuracağımız sunucumuzu sol köşede Suncular başlığı altında bulup tıkladıktan sonra Sunucu Detayları'na tıklıyoruz.
+Eklenti yükleme işlemi tamamlandıktan sonra Depo eklentisini kuracağımız sunucumuzu sol köşede Suncular başlığı altında bulup tıkladıktan sonra Sunucu Detayları'na tıklıyoruz.
 Açılan pencerede Eklentiler tabine tıklayıp + butonuna basıyoruz.
 
 ![2 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/2.1.JPG)
@@ -106,7 +106,9 @@ Yerel depomuzu istemcimize eklemek için Liman MYS üzerinden edindiğimiz Sourc
 İlk olarak GPG Anahtarını terminale yazıp çalıştırıyoruz.
 
 >Not: İstemci ile sunucunuzun saatleri aynı değilse GPG anahtarı komutunu çalıştırdığınızda böyle bir hatayla karşılaşırsınız.
-![deb1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/deb.JPG)
+
+![deb1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/deb1.JPG)
+
 Eğer istemciniz Pardus bir istemci ise 
 sudo nano /etc/adjtime
 komutunu çalıştırıp  açılan editör içersindeki UTC ifadesini LOCAL olarak değiştirip reboot diyerek yeniden başlatarak bu sorunu çözebilirsiniz.
