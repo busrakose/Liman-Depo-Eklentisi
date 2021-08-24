@@ -8,18 +8,18 @@
  
  Depo eklentisi kurulumu için ilk olarak Eklenti Mağazası'na gitmelisiniz. Sol alt köşede bulunan Eklenti Mağazası butonuna tıklayarak mağazaya gidebilirsiniz.Mağazada bulunan eklentilerden Depo eklentisini bularak Satın Al diyoruz (Depo eklentisi ücretsiz bir eklentidir :)).
  
-![1 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/1.1.JPG?raw=true)
+![1 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/1.1.JPG)
 
 
 Eklenti satın alma işlemi tamamlandıktan sonra Depo eklentisini kuracağımız sunucumuzu sol köşede Suncular başlığı altında bulup tıkladıktan sonra Sunucu Detayları'na tıklıyoruz.
 Açılan pencerede Eklentiler tabine tıklayıp + butonuna basıyoruz.
 
-![2 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/2.1.JPG)
+![2 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/2.1.JPG)
  
  
 Karşımıza Liman MYS üzerinde yüklü olan eklentiler çıkıyor. Biz Depo eklentisine tıklayıp Ekle diyerek sunucumuza eklentimizi ekleme işlemini tamamlıyoruz.
 
-![3 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/3.1.JPG)
+![3 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/3.1.JPG)
 
 
 
@@ -27,7 +27,7 @@ Karşımıza Liman MYS üzerinde yüklü olan eklentiler çıkıyor. Biz Depo ek
 
 Sunucumuza tıkladığımızda altında yüklemiş olduğumuz eklentimizi görebiliyoruz. Depo eklentisine tıkladığımızda kurulması gereken paketler olduğunu görüyoruz. Paketleri Yükle diyerek işlemi başlatıyoruz.
 
-![4 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/4.1.JPG)
+![4 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/4.1.JPG)
 
 Paket yükleme işlemi tamamlandıktan sonra Depo eklentimizi kullanmaya başlayabiliriz..
 
@@ -36,40 +36,40 @@ Paket yükleme işlemi tamamlandıktan sonra Depo eklentimizi kullanmaya başlay
 
 Depo eklentisi kurulumu tamamlandıktan sonra açılan pencerede Yerel Depo tabine tıklayıp Yerel Depo Ekle diyerek yeni depomuzu oluşturalım.
 
-![5 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/5.1.JPG)
+![5 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/5.1.JPG)
 
 Açılan pencerede Yerel Depo özelliklerini doldurmamız gerekiyor.
 
 
-![6](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.JPG)
+![6](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.JPG)
 
-> Örnek:![6 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.1.JPG)
+> Örnek:![6 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.1.JPG)
 
 
 
 
 Bütün boşlukları doldurduktan sonra Ekle diyerek depomuzu ekliyoruz.
 
-![6 2](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.2.JPG)
+![6 2](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/6.2.JPG)
 
 
 Eklediğimiz depoyu artık depoların bulunduğu tabloda görebiliyoruz. 
 Adres başlığı altında bulunan link bizim yerel depo adresimiz. Linkin üzerine tıklıyoruz.
 
-![7 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/7.1.JPG)
+![7 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/7.1.JPG)
 
 Karşımıza depoda bulunan Yerel Paketler penceresi çıkıyor. 
 >Source List : Depomuzun debian paketini yüklemek için kullanacağımız uzantı.
 >GPG Anahtarı: Depoyu istemciye eklemek için gerekli olan anahtar.
 
 GPG Anahtarını Dışa Aktar diyerek anahtara ulaşabiliriz.
-![8 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/8.1.JPG)
+![8 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/8.1.JPG)
 
-![9 1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/9.1.JPG)
+![9 1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/9.1.JPG)
 
 Depo Adresi butonuna tıkladığımızda depomuzun içindeki verileri görebiliriz.
 
-![10](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/10.JPG)
+![10](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/10.JPG)
 
 Yerel depomuz ve istemciye kurmak için gerekli tüm bilgilerimiz artık hazır.
 
@@ -85,7 +85,7 @@ Filezilla uygulamamızı açıp Sunucu, Kullanıcı adı, Parola, Kapı numaras�
 
 
 
-![11](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/11.JPG)
+![11](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/11.JPG)
 
 Bağlantı yapıldıktan sonra aşağıdaki dosyalar kısmından yüklemek istediğimiz paketi seçip yükleme işlemini tamamlıyoruz.
  
@@ -106,7 +106,7 @@ Yerel depomuzu istemcimize eklemek için Liman MYS üzerinden edindiğimiz Sourc
 İlk olarak GPG Anahtarını terminale yazıp çalıştırıyoruz.
 
 >Not: İstemci ile sunucunuzun saatleri aynı değilse GPG anahtarı komutunu çalıştırdığınızda böyle bir hatayla karşılaşırsınız.
-![deb1](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/deb.JPG)
+![deb1](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/deb.JPG)
 Eğer istemciniz Pardus bir istemci ise 
 sudo nano /etc/adjtime
 komutunu çalıştırıp  açılan editör içersindeki UTC ifadesini LOCAL olarak değiştirip reboot diyerek yeniden başlatarak bu sorunu çözebilirsiniz.
@@ -114,10 +114,10 @@ komutunu çalıştırıp  açılan editör içersindeki UTC ifadesini LOCAL olar
 Depomuzu istemcimize eklemek için
 sudo nano /etc/apt/sources.list 
 komutunu çalışarak depoların bulunduğu dizine ulaşıyoruz.
-![12](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/12.JPG)
+![12](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/12.JPG)
 
 Açılan sayfaya Liman MYS üzerinden aldığımız Source List'i ekleyerek Ctrl+S ve Ctrl+X diyerek pencereyi kapatıyoruz.
-![13](https://https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/13.JPG)
+![13](https://github.com/busrakose/Liman-Depo-Eklentisi/blob/main/images/13.JPG)
 
 Depomuzu istemcimize kurduk. İçerisindeki paketlere erişebilmek için sistemi update ve upgrade etmemiz gerekiyor.
 > sudo apt update
